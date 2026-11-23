@@ -1,0 +1,7 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Content-Security-Policy: frame-ancestors 'self' https://globaldrive.by https://globaldrive.kz https://www.globaldrive.by https://www.globaldrive.kz
+
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
